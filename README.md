@@ -4,8 +4,8 @@ A simple dashboard for exploring monthly air-quality measurements across cities.
 
 ## Screenshots
 
-![City dashboard](images/city-dashboard.png)
+![City dashboard](images/home.png)
 
-![Available cities](images/city-list.png)
+![Chart Graph](images/chart.png)
 
-![Monthly measurements](images/monthly-measurements.png)
+![Monthly measurements](images/table.png)
